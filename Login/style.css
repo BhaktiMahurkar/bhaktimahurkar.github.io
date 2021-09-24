@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    background-color: #F7DAD9;
+    border: 2px rgb(228, 77, 170) solid;
+    border-radius: 15px;
+    position: absolute;
+    justify-content: center;
+    width: 380px;
+    height: 300px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
+    font-size: 15px;
+    }
+body{
+    background-color: #ddbcbb;
+    background-size: cover;
+    background-position: center;
+}
+.form-group h1{
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 100;
+}
+.form-group input[type="email"], input[type="password"],{
+    width: 85%;
+    margin: 2.5%;
+    padding: 2%;
+    font-size: 20px;
+    text-align:left;
+}
+.form-group  input[type="submit"]{
+    width: 85%;
+    margin: 2.5%;
+    padding: 2%;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 7%;
+    box-shadow: 0 8px 16px 0 rgba(207, 109, 194, 0.2), 0 6px 20px 0 rgba(251, 255, 41, 0.19);
+}
+}
+
+
+
+
+
+
+
+*{
+  
+    padding: 0;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    
+    background-size: cover;
+    background-position: center;
+  }
+  body {
+    background-image: linear-gradient(#FCD8D4,#FCD8D4 25% ,#FDF6F0,  #FDF6F0 25% ,#F8E2CF,#F8E2CF 25%,#F5C6AA,#F5C6AA 25%);
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #3be2cc;
+  }
+  .active {
+    background-color: #04AA6D;
+  }
+  li {
+    border-right: 1px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  .avatar {
+    display: block;
+    margin-left:50px ;
+    
+    width: 250px;
+    height: 250px;
+    margin-top: 200px;
+    border-radius: 20%;
+  
+  }
+  Intro h1{
+    text-align:right ;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 100;
+    margin-top:0px ;
+    margin-right: 0px;
+    margin-left:300 px ;
+  }
